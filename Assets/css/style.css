@@ -3,3 +3,7 @@ body {
     background:  url("../images/dynamic-style.png");
 }
 
+h3 {
+    color: goldenrod;
+}
+
