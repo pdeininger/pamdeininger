@@ -6,6 +6,8 @@ A professional portfolio to display recent projects. Thsi mobile first site also
 
 Technologies used include HTML, CSS, Bootstrap
 
+Link to [site](https://pdeininger.github.io/pamdeininger/)
+
 ## Credits
 
 "Teeny-weeny-tiny dots in a dynamic pattern" Design by Agus Setiawan on toptal.com/designers/subtlepatterns/
